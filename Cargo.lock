@@ -3,5 +3,5 @@
 version = 3
 
 [[package]]
-name = "Base64"
+name = "base64"
 version = "0.1.0"
